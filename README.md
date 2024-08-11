@@ -1,4 +1,4 @@
-# -Plant-Disease-Recognition-System-with-AI-Powered-Plant-Doctor-Assistant-
+# Plant-Disease-Recognition-System-with-AI-Powered-Plant-Doctor-Assistant-
  Plant Disease Recognition System with AI-Powered Plant Doctor Assistant! 
 
 We’re thrilled to unveil our latest innovation that bridges the gap between cutting-edge technology and agriculture – the Plant Disease Recognition System. This advanced tool is designed to help farmers and gardeners identify plant diseases with remarkable accuracy and receive expert advice on treatment.
